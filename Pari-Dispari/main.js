@@ -25,7 +25,7 @@ if (somma % 2 === 0){
 }
 
 //Risultati
-alert ("Numero del computer:" + computerNUmber);
+alert ("Numero del computer:" + computerNumber);
 alert ("Somma:" + somma);
 alert ("La somma è " + sommaRisultato);
 
