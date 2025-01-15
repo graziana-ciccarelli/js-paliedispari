@@ -14,7 +14,7 @@ let userNumber = parseInt(prompt("Inserisci un numero da 1 a 5"));
 let computerNumber = numeroRandom();
 
 //Somma dei due numeri
-let somma = userNumber + computerNUmber;
+let somma = userNumber + computerNumber;
 
 //Controllare se la somma è pari o dispari
 let sommaRisultato;
