@@ -11,7 +11,7 @@ let userChoice = prompt("Scegli 'pari' o 'dispari':");
 let userNumber = parseInt(prompt("Inserisci un numero da 1 a 5"));
 
 //Numero random per il computer
-let computerNUmber = numeroRandom();
+let computerNumber = numeroRandom();
 
 //Somma dei due numeri
 let somma = userNumber + computerNUmber;
