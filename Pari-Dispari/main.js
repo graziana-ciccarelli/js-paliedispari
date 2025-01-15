@@ -23,3 +23,15 @@ if (somma % 2 === 0){
 } else{
     sommaRisultato = "dispari";
 }
+
+//Risultati
+alert ("Numero del computer:" + computerNUmber);
+alert ("Somma:" + somma);
+alert ("La somma è " + sommaRisultato);
+
+//Dichiarare il vincitore
+if (userChoice === sommaRisultato){
+    alert("Hai vinto");
+}else{
+    alert("Hai perso");
+  }
